@@ -1,5 +1,6 @@
  create database Airport;
-
+use Airport;
+GO
  create table TbAirline
  (AirlineId int ,
   AirlineCode int not null,
